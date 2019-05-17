@@ -1,0 +1,17 @@
+﻿10/05/2019
+Kaal : 76 kg
+Kaloreid tarbitud : 1234 kcal
+Vett joodud: 3.5 l
+Tööperiood kokku: 2 h 48 min
+Puhkeperiood kokku: 4 h 34 min
+Kehaline aktiivsus: 5 h 23 min
+END
+15/05/2019
+Kaal : - kg
+Kaloreid tarbitud : 696.25 kcal
+Vett joodud: - l
+Tööperiood kokku: 0 h 5 min
+Puhkeperiood kokku: 0 h 5 min
+Kehaline aktiivsus: 0h 25min
+END
+
