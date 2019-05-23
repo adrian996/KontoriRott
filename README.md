@@ -1,14 +1,15 @@
-# OfficeWorker
+# Kontorirott
 
 TalTech "Tarkvara projekt" aine raames loodud programm.
+Kevadsemester 2019.
 
-## Moodulid
+## Alamprogrammid
 
-* Vee joomise j‰lgimine
-* Kalorite j‰lgimine/lıuna komplekteerimine
-* Arvutikasutuse j‰lgimine
+* Vee joomise j√§lgimine
+* Kalorite j√§lgimine/l√µuna komplekteerimine
+* Arvutikasutuse j√§lgimine
 * Kehalise aktiivsuse logimine
+* √úlevaade
 
 
-
-Lıplik versioon valmis 15.05.19
+L√µplik versioon valmis 15.05.19
